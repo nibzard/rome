@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.19](https://github.com/nibzard/rome/compare/rome-web-components-v0.1.18...rome-web-components-v0.1.19) (2026-09-22)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @rome-os/ui bumped to 0.4.0
+
 ## [0.1.18](https://github.com/rome-os/rome/compare/rome-web-components-v0.1.17...rome-web-components-v0.1.18) (2026-09-17)
 
 

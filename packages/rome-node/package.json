@@ -1,6 +1,6 @@
 {
   "name": "@rome-os/node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rome device protocol, Gateway client, and remote computer CLI",
   "license": "MIT",
   "type": "module",
